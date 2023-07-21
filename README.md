@@ -1,45 +1,21 @@
-**Lead Tracker Chrome Extension Readme**
+# coc8640b4ab7ea074c56f6bdc
 
-Table of Contents
-Introduction
-Installation
-How to Use
-Contributing
-License
+Quick start:
 
+```
+$ npm install
+$ npm start
+````
 
-*1. Introduction*
-Lead Tracker is a powerful Chrome extension that helps you save and manage important leads you come across while surfing the web. Whether you are looking for potential customers for your business or a company seeking new prospects, this extension is designed to streamline the lead-tracking process and boost your sales efforts.
+Head over to https://vitejs.dev/ to learn more about using vite
+## About Scrimba
 
-The extension uses HTML, CSS, and JavaScript, making it lightweight and easy to use. It provides a user-friendly interface allowing you to capture essential lead information and organize it efficiently, ensuring no promising leads slip through the cracks.
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-*2. Installation*
-To install the Lead Tracker Chrome extension, follow these steps:
+- [Our courses](https://scrimba.com/allcourses)
+- [The Frontend Career Path](https://scrimba.com/learn/frontend)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-Clone the repository to your local machine or download the source code as a ZIP file.
-Open Google Chrome and navigate to chrome://extensions/.
-Turn on "Developer mode" using the toggle switch in the top right corner.
-Click on the "Load unpacked" button and select the folder containing the extension's source code.
-The Lead Tracker extension will now be installed in your Chrome browser.
-
-*3. How to Use*
-Using Lead Tracker is straightforward:
-
-->Click on the Lead Tracker extension icon in the Chrome toolbar to open the popup.
-->Fill in the lead's details manually in the provided field or click SAVE TAB, which will directly store the URL of the current profile of the lead which you want    to save. 
-->Click the "Save" button to store the lead's information.
-->To view, or manage your saved leads, click on the Lead Tracker extension icon, which will show you the leads you saved.
-
-*4. Contributing*
-Contributions to Lead Tracker are welcome and appreciated! If you want to contribute to the project, follow these steps:
-
-Fork the repository on GitHub.
-Create a new branch from the main branch with a descriptive name for your changes.
-Make your modifications and improvements to the codebase.
-Ensure your code follows the existing coding style and conventions.
-Create a pull request and describe the changes you made. Be sure to reference any related issues.
-
-*5. License*
-Lead Tracker is licensed under the MIT License. Feel free to modify and use the extension according to the terms specified in the license.
-
-Thank you for choosing Lead Tracker! If you encounter any issues or have suggestions for improvement, please don't hesitate to create an issue on the GitHub repository. Happy lead tracking!
+Happy Coding!
